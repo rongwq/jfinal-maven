@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.rong</groupId>
+    <artifactId>my_doamin</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <groupId>rong.api</groupId>
+  <artifactId>my_api</artifactId>
+  <version>1.0.0</version>
+  <packaging>war</packaging>
+  <name>my_api Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  
+  <dependencies>
+    <dependency>
+      <groupId>rong.common</groupId>
+      <artifactId>my_common</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>rong.persist</groupId>
+      <artifactId>my_persist</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+  <build>
+    <finalName>my_api</finalName>
+  </build>
+</project>

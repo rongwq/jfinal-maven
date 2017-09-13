@@ -1,0 +1,4 @@
+#此配置只做生成实体
+jdbcUrl = jdbc:mysql://127.0.0.1:3306/rong?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+user=root
+password=test2016

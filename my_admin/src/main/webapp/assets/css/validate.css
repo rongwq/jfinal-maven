@@ -1,0 +1,26 @@
+input.error {
+	border: 1px solid red !important;
+}
+label.error {
+    color: red;
+}
+span.error {
+    color: red;
+}
+label.checked {
+}
+
+form input.error{
+	 color:#F00;
+	 border: 1px solid #CE7979;
+	 background:#FFF7FA;
+     }
+form label.error{
+ 	color:#F00;
+     }
+
+.arrow-left
+{
+  border-bottom: 10px solid #000000;
+  border-left: 10px solid #ffffff;
+}

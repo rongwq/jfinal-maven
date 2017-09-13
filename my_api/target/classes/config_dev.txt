@@ -1,0 +1,38 @@
+jdbcUrl = jdbc:mysql://127.0.0.1:3306/rong?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+log.jdbcUrl = jdbc:mysql://127.0.0.1:3306/log?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+user=root
+password=test2016
+devMode = true
+
+#jedis
+redis.host=172.18.7.63
+redis.port=6379
+redis.password=123456
+redis.pool.maxTotal=100
+redis.pool.maxIdle=20
+redis.pool.maxWait=1000
+redis.pool.testOnBorrow=true
+redis.dbIndex=0
+ 
+#activeMq
+activeMq.username=admin
+activeMq.password=admin
+activeMq.host=172.18.7.64
+activeMq.port=61616
+
+#用户头像
+imgUrlHead =http://172.18.7.63
+upload = /uploads/
+
+#ftp上传
+ftp_host=172.18.7.63
+ftp_port=2121
+ftp_username=yifenzi
+ftp_pwd=yifenzitest
+ftp_uploads=/uploads/
+
+#极光推送
+jpush_appkey=bb904b9cfeed43075b7f7514
+jpush_masterSecret=a8031273019cdbc61a742874
+jpush_apnsProduction = false
+
