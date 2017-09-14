@@ -4,8 +4,8 @@ import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
-import com.gw.common.util.PropertiesUtils;
 import com.rong.common.bean.MyConst;
+import com.rong.common.util.PropertiesUtils;
 
 public class Log4jConfigListener implements ServletContextListener{
 

@@ -2,8 +2,8 @@ package com.rong.persist.dao;
 
 import java.util.List;
 
-import com.gw.common.util.StringUtils;
 import com.jfinal.plugin.activerecord.Page;
+import com.rong.common.util.StringUtils;
 import com.rong.persist.model.AdminResource;
 
 public class ResourceDao {

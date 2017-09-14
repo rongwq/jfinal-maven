@@ -4,12 +4,12 @@ import java.security.interfaces.RSAPublicKey;
 
 import org.apache.commons.codec.binary.Hex;
 
-import com.gw.common.util.RSAUtil;
-import com.gw.common.util.RSAUtils;
 import com.jfinal.core.Controller;
 import com.jfinal.plugin.activerecord.Record;
 import com.rong.common.bean.BaseRenderJson;
 import com.rong.common.bean.MyErrorCodeConfig;
+import com.rong.common.util.RSAUtil;
+import com.rong.common.util.RSAUtils;
 
 /**
  * h5中js的加密

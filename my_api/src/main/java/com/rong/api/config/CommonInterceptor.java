@@ -8,17 +8,17 @@ import javax.servlet.http.HttpServletResponse;
 import org.apache.log4j.Logger;
 import org.apache.log4j.MDC;
 
-import com.gw.common.exception.g.Exception4View;
-import com.gw.common.util.PropertiesUtils;
-import com.gw.common.util.RSAUtil;
-import com.gw.common.util.RequestUtils;
-import com.gw.common.util.StringUtils;
 import com.jfinal.aop.Interceptor;
 import com.jfinal.aop.Invocation;
 import com.jfinal.core.Controller;
 import com.rong.common.bean.BaseRenderJson;
 import com.rong.common.bean.MyConst;
 import com.rong.common.bean.MyErrorCodeConfig;
+import com.rong.common.exception.g.Exception4View;
+import com.rong.common.util.PropertiesUtils;
+import com.rong.common.util.RSAUtil;
+import com.rong.common.util.RequestUtils;
+import com.rong.common.util.StringUtils;
 import com.rong.persist.dao.UsertokenDao;
 import com.rong.persist.model.Usertoken;
 

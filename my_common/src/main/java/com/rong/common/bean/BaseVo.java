@@ -1,6 +1,6 @@
 package com.rong.common.bean;
 
-import com.gw.common.util.ObjectUtil;
+import com.rong.common.util.ObjectUtil;
 
 public class BaseVo<T> {
 	public BaseVo() {

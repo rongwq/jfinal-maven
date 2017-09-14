@@ -1,6 +1,6 @@
 package com.rong.common.bean;
 
-import com.gw.common.util.PropertiesUtils;
+import com.rong.common.util.PropertiesUtils;
 
 /**
  * rongwq

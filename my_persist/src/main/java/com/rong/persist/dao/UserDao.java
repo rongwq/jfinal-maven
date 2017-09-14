@@ -3,10 +3,10 @@ package com.rong.persist.dao;
 import java.security.NoSuchAlgorithmException;
 import java.util.List;
 
-import com.gw.common.util.StringUtils;
 import com.jfinal.plugin.activerecord.Db;
 import com.jfinal.plugin.activerecord.Page;
 import com.jfinal.plugin.activerecord.Record;
+import com.rong.common.util.StringUtils;
 import com.rong.persist.model.User;
 
 /**

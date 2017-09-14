@@ -1,11 +1,11 @@
 package com.rong.admin.controller;
 
-import com.gw.common.exception.CommonException;
 import com.jfinal.aop.Duang;
 import com.jfinal.plugin.activerecord.Page;
 import com.rong.common.bean.BaseRenderJson;
 import com.rong.common.bean.MyConst;
 import com.rong.common.bean.MyErrorCodeConfig;
+import com.rong.common.exception.CommonException;
 import com.rong.persist.dao.UserDao;
 import com.rong.persist.model.User;
 import com.rong.user.service.UserApiService;

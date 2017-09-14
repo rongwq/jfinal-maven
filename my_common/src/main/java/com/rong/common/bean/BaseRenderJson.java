@@ -3,8 +3,8 @@ package com.rong.common.bean;
 import java.util.List;
 import java.util.Map;
 
-import com.gw.common.util.StringUtils;
 import com.jfinal.core.Controller;
+import com.rong.common.util.StringUtils;
 
 public class BaseRenderJson {
 	public static final BaseRenderJson baseRenderObj = new BaseRenderJson();

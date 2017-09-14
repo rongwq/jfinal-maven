@@ -11,10 +11,10 @@ import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.cache.MemoryConstrainedCacheManager;
 import org.apache.shiro.mgt.RealmSecurityManager;
 
-import com.gw.common.validator.CommonValidatorUtils;
 import com.jfinal.aop.Duang;
 import com.jfinal.json.Json;
 import com.rong.common.bean.BaseRenderJson;
+import com.rong.common.validator.CommonValidatorUtils;
 import com.rong.persist.model.AdminResource;
 import com.rong.persist.model.AdminRole;
 import com.rong.system.service.ResourceService;

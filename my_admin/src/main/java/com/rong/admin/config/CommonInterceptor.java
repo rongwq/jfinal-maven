@@ -2,13 +2,13 @@ package com.rong.admin.config;
 
 import org.apache.log4j.MDC;
 
-import com.gw.common.exception.g.Exception4View;
-import com.gw.common.util.RequestUtils;
 import com.jfinal.aop.Interceptor;
 import com.jfinal.aop.Invocation;
 import com.jfinal.core.Controller;
 import com.rong.common.bean.BaseRenderJson;
 import com.rong.common.bean.MyErrorCodeConfig;
+import com.rong.common.exception.g.Exception4View;
+import com.rong.common.util.RequestUtils;
 import com.rong.persist.model.Admin;
 
 /*****

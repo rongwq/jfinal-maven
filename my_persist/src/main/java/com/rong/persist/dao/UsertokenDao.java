@@ -1,10 +1,10 @@
 package com.rong.persist.dao;
 
-import com.gw.common.util.GenerateSequenceUtil;
 import com.jfinal.plugin.activerecord.Db;
 import com.jfinal.plugin.redis.Redis;
 import com.rong.common.bean.MyConst;
 import com.rong.common.bean.RedisKeyConst;
+import com.rong.common.util.GenerateSequenceUtil;
 import com.rong.persist.base.BaseDao;
 import com.rong.persist.model.User;
 import com.rong.persist.model.Usertoken;

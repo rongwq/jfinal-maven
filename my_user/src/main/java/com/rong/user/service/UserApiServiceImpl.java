@@ -3,11 +3,11 @@ package com.rong.user.service;
 import java.sql.Timestamp;
 import java.util.Date;
 
-import com.gw.common.util.StringUtils;
 import com.jfinal.plugin.redis.Redis;
 import com.rong.common.bean.MyConst;
 import com.rong.common.bean.MyErrorCodeConfig;
 import com.rong.common.bean.RedisKeyConst;
+import com.rong.common.util.StringUtils;
 import com.rong.persist.base.BaseServiceImpl;
 import com.rong.persist.dao.UserDao;
 import com.rong.persist.dao.UsertokenDao;
