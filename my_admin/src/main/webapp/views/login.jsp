@@ -27,7 +27,7 @@
 	<div class="myapp-login-logo-block  tpl-login-max">
 		<div class="myapp-login-logo-text">
 			<div class="myapp-login-logo-text">
-				喜客<span> 管理后台</span> <i class="am-icon-skyatlas"></i>
+				<span> 管理后台</span> <i class="am-icon-skyatlas"></i>
 				
 			</div>
 		</div>

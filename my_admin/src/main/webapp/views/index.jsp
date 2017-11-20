@@ -151,7 +151,7 @@
 							</div>
 							<div class="details">
 								<div class="number" id="productOrderNum">0</div>
-								<div class="desc">昨日商城订单数量</div>
+								<div class="desc">昨日订单数量</div>
 							</div>
 							<a class="more" href="#"> 查看更多 <i
 								class="m-icon-swapright m-icon-white"></i>
@@ -165,7 +165,7 @@
 							</div>
 							<div class="details">
 								<div class="number" id="orderNum">0</div>
-								<div class="desc">昨日洗车订单数量</div>
+								<div class="desc">昨日订单数量</div>
 							</div>
 							<a class="more" href="#"> 查看更多 <i
 								class="m-icon-swapright m-icon-white"></i>
@@ -208,7 +208,7 @@
 						<div class="tpl-portlet">
 							<div class="tpl-portlet-title">
 								<div class="tpl-caption font-red ">
-									<i class="am-icon-bar-chart"></i> <span> 洗车员接单排行榜</span>
+									<i class="am-icon-bar-chart"></i> <span> 排行榜</span>
 								</div>
 
 							</div>
@@ -216,7 +216,7 @@
 								<table class="am-table tpl-table">
 									<thead>
 										<tr class="tpl-table-uppercase">
-											<th>洗车员</th>
+											<th>xx</th>
 											<th>金额</th>
 											<th>次数</th>
 											<th>好评率</th>
@@ -266,7 +266,7 @@
 
 					<p>
 						由 <a href="http://www.gwemall.cn/" title="广州涌智" target="_blank"
-							class="">广州涌智</a> 提供技术支持
+							class="">xxxx</a> 提供技术支持
 					</p>
 					<p>CopyRight©2017 XK Inc.</p>
 				</div>
